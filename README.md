@@ -34,7 +34,7 @@ A full-stack internal Leave Management System built with Go, PostgreSQL, and Rea
     <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
   </text>
   <text x="400" y="90" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#FFFFFF" opacity="0.92" letter-spacing="2">
-    Leave Management System — ABC Company
+    Leave Management System - ABC Company
   </text>
   <rect x="150" y="108" width="500" height="4" rx="2" fill="#FFD700" opacity="0.5">
     <animate attributeName="width" values="500;380;500" dur="2.8s" repeatCount="indefinite"/>
@@ -49,7 +49,7 @@ A full-stack internal Leave Management System built with Go, PostgreSQL, and Rea
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/Auth-JWT-FF6B6B?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-> *A simple, fast & real-time leave management solution — replacing manual processes for small teams.*
+> *A simple, fast & real-time leave management solution - replacing manual processes for small teams.*
 
 **✨ Made by Dinushi Perera**
 
@@ -214,7 +214,7 @@ LeaveHub/
     ⭐ If LeaveHub helped you, please give it a star!
   </text>
   <text x="290" y="43" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#AAAAAA">
-    Built by Dinushi Perera · MIT License · 2024
+    Built by Dinushi Perera 
   </text>
 </svg>
 
