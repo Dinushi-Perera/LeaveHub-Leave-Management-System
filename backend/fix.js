@@ -1,0 +1,1 @@
+const fs = require('fs'); let c = fs.readFileSync('models/models.go', 'utf8'); c = c.replace(/Email       string .json..email../g, ''); c = c.replace(/Name        string .json..name../g, 'Name      string    \json:\x22name\x22\'); fs.writeFileSync('models/models.go', c)
